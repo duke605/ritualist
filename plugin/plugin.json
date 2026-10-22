@@ -1,0 +1,8 @@
+{
+    "name": "Ritualist",
+    "version": "0.0.1",
+    "contactEmailAddress": "489996+duke605@users.noreply.github.com",
+    "requiredDependencies": { "prettyui": "prettyui" },
+    "optionalPermissions": [ "httpAccess" ],
+    "urls": { "prices": "https://prices.runescape.wiki/" }
+}
