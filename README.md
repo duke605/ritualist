@@ -63,3 +63,7 @@ After changing code, run `prl ritualist` in the console to reload.
 
 - Set `contactEmailAddress` in `plugin/plugin.json`. It's shown to users, so Jagex recommends using a different address from your Mod.io login.
 - Follow the [plugin guidelines](https://developer.runescape.com/rs/submission/guidelines.html) and the [submission process](https://developer.runescape.com/rs/submission/process.html). The Mod.io description must cover the email, the EULA, each permission and data protection.
+
+## License
+
+Released into the public domain under [the Unlicense](LICENSE).
