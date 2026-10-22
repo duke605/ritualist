@@ -1,4 +1,9 @@
-# Ritualist
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="docs/logo-light.svg" />
+    <img src="docs/logo.svg" alt="Ritualist" width="368" />
+  </picture>
+</p>
 
 A RuneScape 3 client plugin for planning Necromancy rituals: choose a ritual, focus, site, glyphs and gear, and see what the rituals use and make, what they cost, how long they take and the experience they give. It's a port of the [Necromancy Ritual Calculator](https://github.com/duke605/necromancy-ritual-calculator) web app to the in-game [plugin API](https://developer.runescape.com/rs/getting-started.html).
 
@@ -52,6 +57,7 @@ After changing code, run `prl ritualist` in the console to reload.
 | `tests/`              | Tests, run outside the game with `make test`.                            |
 | `types/`              | Editor stubs for the client API, for lua-language-server.                |
 | `scripts/`            | The data and packaging scripts.                                          |
+| `docs/`               | The README's logo.                                                      |
 
 ## Before submitting
 
